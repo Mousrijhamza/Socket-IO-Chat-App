@@ -16,23 +16,19 @@ Ce projet implémente un serveur de chat en Java, permettant la communication en
     git clone https://github.com/votre-utilisateur/serveur-chat-java.git
     ```
 2. Naviguez dans le répertoire du projet :
-    ```sh
-    cd serveur-chat-java
-    ```
+    
 3. Compilez les fichiers Java :
-    ```sh
-    javac *.java
-    ```
+   
 
 ## Utilisation
 
 1. Démarrez le serveur de chat :
     ```sh
-    java ServeurChat
+    java Myserver
     ```
-2. Connectez des clients au serveur en démarrant plusieurs instances du client :
+2. Connectez des clients au serveur en démarrant plusieurs instances du client windows telnet:
     ```sh
-    java ClientChat
+    telnet localhost port
     ```
 
 ## Exemple de Fonctionnement
