@@ -43,9 +43,14 @@
 </li>
 </ol>
 
-<h2>Améliorations Futures</h2>
+<h2>Améliorations</h2>
 <ul>
-    <li><strong>Interface Graphique</strong> : Créer une interface graphique pour le client en utilisant JavaFX.</li>
+    <li><strong>Interface Graphique</strong> : Création d'une interface graphique pour le client en utilisant JavaFX.
+<img src="img/img3.png">
+<hr>
+<img src="img/img4.png">
+</li>
+<h2>Améliorations Futures</h2>
     <li><strong>Authentification</strong> : Ajouter un système d'authentification pour les utilisateurs.</li>
     <li><strong>Journalisation</strong> : Implémenter la journalisation des messages pour une meilleure traçabilité.</li>
 </ul>
